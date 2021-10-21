@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+fieldset{
+    width: 90vh;
+    margin:10vh auto;
+}
+div{
+    margin:1vh 0 1vh 2vw
+}
